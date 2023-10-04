@@ -1,0 +1,13 @@
+/* style.css */
+
+.gold-table {
+    background-color: gold;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.gold-table th, .gold-table td {
+    border: 1px solid black;
+    padding: 5px;
+}
